@@ -85,13 +85,13 @@
     </div>
 
     <!-- LOADER -->
-    <div id="preloader">
+    {{-- <div id="preloader">
         <div class="loader-container">
             <div class="progress-br float shadow">
                 <div class="progress__item"></div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- END LOADER -->
 
     <!-- Start header -->
@@ -100,111 +100,69 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>About Us<span class="m_1">Lorem Ipsum dolroin gravida nibh vel velit.</span></h1>
+            <h1>Tentang<span class="m_1">Peternakan yang menghasilkan kambing atau domba berkualitas</span></h1>
         </div>
     </div>
 
-    <div id="overviews" class="section lb">
+    <div id="overviews" class="section wb">
         <div class="container">
-            <div class="section-title row text-center">
-                <div class="col-md-8 offset-md-2">
-                    <h3>About</h3>
-                    <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-                        lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p>
-                </div>
-            </div><!-- end title -->
+            <div class="row">
+                <div class="col-lg-12 blog-post-single">
+                    <div class="blog-item">
+						<div class="image-blog">
+							<img src="{{ asset('assets/img/hero.jpg') }}" alt="" class="img-fluid">
+						</div>
+						<div class="post-content">
+							<div class="post-date">
+								<span class="day">24</span>
+								<span class="month">Juni</span>
+							</div>
+							<div class="meta-info-blog">
+								<span><i class="fa fa-calendar"></i> <a href="#">May 11, 2015</a> </span>
+								<span><i class="fa fa-tag"></i>  <a href="#">News</a> </span>
+								<span><i class="fa fa-comments"></i> <a href="#">12 Comments</a></span>
+							</div>
+							<div class="blog-title">
+								<h2><a href="#" title="">AGROEDUFARM</a></h2>
+							</div>
+							<div class="blog-desc">
+								<p>Agroedufarm adalah lembaga pelatihan pertanian dan peternakan yang merupakan kelompok swadaya masyarakat yang percaya bahwa kemajuan ekonomi Indonesia harus dimulai dari pedesaan.</p>
+								<blockquote class="default">
+									Kami juga tersedia pelatihan bagi individu yang ingin mempelajari dunia peternakan secara menyeluruh.
+								</blockquote>
+								<p>Pengelolaan peternakan dari hulu ke hilir yang maju dan modern, ekosistem Agroedufarm diharapkan dapat secara langsung berperan aktif dalam pembangunan pertanian melalui pengembangan sumber daya manusia pertanian dalam bentuk pelatihan bagi petani dan masyarakat di wilayahnya. </p>
+								<p>Kami bekerjasama dengan peternakan yang didirikan, dimiliki, dikelola oleh petani secara swadaya baik perorangan maupun berkelompok yang tersebar di beberapa lokasi di Indonesia. Sekaligus menjadi tempat berkumpulnya peternak, pemodal, agen pemasaran, pembeli retail hasil ternak dan turunannya, hingga produksi produk pangan siap santap.</p>
+                                <p>Adapun pada perayaan Idul Adha 1442 H yang akan jatuh pada tanggal 19 Juli 2021, kami menyediakan hewan Kambing ataupun Domba yang merupakan hasil dari peternakan sendiri. Dan kami menjamin bahwa hewan kurban yang akan menjadi pilihan Ibadah Anda, telah sesuai dengan Syariat Islam</p>
+							</div>
+						</div>
+					</div>
 
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
-                    <div class="message-box">
-                        <h4>2018 BEST SmartEDU education school</h4>
-                        <h2>Awards Winner Support Center</h2>
-                        <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam
-                            risus. Sed a tellus quis mi rhoncus dignissim.</p>
+					<div class="blog-author">
+						<div class="author-bio">
+							<h3 class="author_name"><a href="#">Ricky</a></h3>
+							<h5>CEO <a href="#">AGROEDUFARM</a></h5>
+							<p class="author_det">
+								Lorem ipsum dolor sit amet, consectetur adip, sed do eiusmod tempor incididunt  ut aut reiciendise voluptat maiores alias consequaturs aut perferendis doloribus omnis saperet docendi nec, eos ea alii molestiae aliquand.
+							</p>
+						</div>
+						<div class="author-desc">
+							<img src="{{ asset('assets/images/team-03.png') }}" alt="about author">
+							<ul class="author-social">
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-skype"></i></a></li>
+							</ul>
+						</div>
+					</div>
 
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus
-                            bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis
-                            montes, nascetur ridiculus mus. Sed vitae rutrum neque. </p>
 
-                        <a href="#" class="hover-btn-new orange"><span>Learn More</span></a>
-                    </div><!-- end messagebox -->
-                </div><!-- end col -->
-
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-media wow fadeIn">
-                        <img src="images/about_02.jpg" alt="" class="img-fluid img-rounded">
-                    </div><!-- end media -->
-                </div><!-- end col -->
-            </div>
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-media wow fadeIn">
-                        <img src="images/about_03.jpg" alt="" class="img-fluid img-rounded">
-                    </div><!-- end media -->
-                </div><!-- end col -->
-
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
-                    <div class="message-box">
-                        <h2>The standard Lorem Ipsum passage, used since the 1500s</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus
-                            bibendum.</p>
-
-                        <a href="#" class="hover-btn-new orange"><span>Learn More</span></a>
-                    </div><!-- end messagebox -->
                 </div><!-- end col -->
 
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="hmv-box">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="inner-hmv">
-                        <div class="icon-box-hmv"><i class="flaticon-achievement"></i></div>
-                        <h3>Mission</h3>
-                        <div class="tr-pa">M</div>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomised words which don't look
-                            even slightly believable.
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita,
-                            provident cupiditate in excepturi.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="inner-hmv">
-                        <div class="icon-box-hmv"><i class="flaticon-eye"></i></div>
-                        <h3>Vision</h3>
-                        <div class="tr-pa">V</div>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomised words which don't look
-                            even slightly believable.
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita,
-                            provident cupiditate in excepturi.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="inner-hmv">
-                        <div class="icon-box-hmv"><i class="flaticon-history"></i></div>
-                        <h3>History</h3>
-                        <div class="tr-pa">H</div>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomised words which don't look
-                            even slightly believable.
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita,
-                            provident cupiditate in excepturi.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
     <div id="testimonials" class="parallax section db parallax-off"
         style="background-image:url('images/parallax_04.jpg');">

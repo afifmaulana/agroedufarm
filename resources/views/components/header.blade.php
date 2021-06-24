@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
-                <img src="{{ asset('assets/img/logo.png') }}" alt="" height="70" width="130" />
+                <img src="{{ asset('assets/img/logo.png') }}" alt="" height="60" width="110" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host"
                 aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,8 +18,7 @@
                     <li class="nav-item {{ request()->is('kontak*') ? 'active' : '' }}"><a class="nav-link" href="/kontak">Kontak</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a class="hover-btn-new log orange" href="#" data-toggle="modal"
-                            data-target="#login"><span>Hubungi Kami</span></a></li>
+                    <li><a class="btn btn-outline-warning mb-2" href="#"><span>Hubungi Kami</span></a></li>
                 </ul>
             </div>
         </div>

@@ -4,15 +4,13 @@
             <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="widget clearfix">
                     <div class="widget-title">
-                        <h3>About US</h3>
+                        <h3>Tentang</h3>
                     </div>
-                    <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus
-                        bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis
-                        dis montes.</p>
+                    <p>Agroedufarm merupakan lembaga pelatihan pertanian dan peternakan yang merupakan kelompok swadaya masyarakat yang percaya bahwa kemajuan ekonomi Indonesia harus dimulai dari pedesaan.</p>
                     <div class="footer-right">
                         <ul class="footer-links-soi">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-github"></i></a></li>
+                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -24,14 +22,13 @@
             <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="widget clearfix">
                     <div class="widget-title">
-                        <h3>Information Link</h3>
+                        <h3>Menu</h3>
                     </div>
                     <ul class="footer-links">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/tentang">Tentang</a></li>
+                        <li><a href="/galeri">Galeri</a></li>
+                        <li><a href="/kontak">Kontak</a></li>
                     </ul><!-- end links -->
                 </div><!-- end clearfix -->
             </div><!-- end col -->
@@ -39,14 +36,14 @@
             <div class="col-lg-4 col-md-4 col-xs-12">
                 <div class="widget clearfix">
                     <div class="widget-title">
-                        <h3>Contact Details</h3>
+                        <h3>Kontak</h3>
                     </div>
 
                     <ul class="footer-links">
-                        <li><a href="mailto:#">info@yoursite.com</a></li>
-                        <li><a href="#">www.yoursite.com</a></li>
-                        <li>PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-                        <li>+61 3 8376 6284</li>
+                        <li><a href="mailto:#"><i class="fa fa-envelope"></i> customer.service@agroedufarm.com</a></li>
+                        <li><a href="/"><i class="fa fa-globe"></i> www.agroedufarm.com</a></li>
+                        <li><i class="fa fa-map-marker"></i> Bogor, Indonesia</li>
+                        <li><i class="fa fa-whatsapp"></i> 0811972915</li>
                     </ul><!-- end links -->
                 </div><!-- end clearfix -->
             </div><!-- end col -->
@@ -59,8 +56,10 @@
     <div class="container">
         <div class="footer-distributed">
             <div class="footer-center">
-                <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">SmartEDU</a> Design By :
-                    <a href="https://html.design/">html design</a>
+                <p class="footer-company-name">All Rights Reserved. &copy;
+                    <script>
+                    document.write(new Date().getFullYear());
+                    </script> <a href="/"> AGROEDUFARM</a>
                 </p>
             </div>
         </div>
