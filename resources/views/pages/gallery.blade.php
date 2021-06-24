@@ -111,11 +111,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/sheep 1.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Williamson</h3>
-							<span class="post">Web Developer</span>
+							<h3 class="title">Domba Medium</h3>
 						</div>
 					</div>
 				</div>
@@ -124,11 +123,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/sheep 4.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Kristiana</h3>
-							<span class="post">Web Designer</span>
+							<h3 class="title">Domba Super</h3>
 						</div>
 					</div>
 				</div>
@@ -137,11 +135,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/sheep 3.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Steve Thomas</h3>
-							<span class="post">Web Developer</span>
+							<h3 class="title">Domba Premium</h3>
 						</div>
 					</div>
 				</div>
@@ -150,11 +147,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/hero.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Steve Thomas</h3>
-							<span class="post">Web Developer</span>
+							<h3 class="title">Domba Agroedufarm</h3>
 						</div>
 					</div>
 				</div>
@@ -163,11 +159,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/hero 2.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Steve Thomas</h3>
-							<span class="post">Web Developer</span>
+							<h3 class="title">Domba Agroedufarm</h3>
 						</div>
 					</div>
 				</div>
@@ -176,11 +171,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/cow1.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Steve Thomas</h3>
-							<span class="post">Web Developer</span>
+							<h3 class="title">Sapi Agroedufarm</h3>
 						</div>
 					</div>
 				</div>
@@ -189,11 +183,10 @@
 					<div class="our-team">
 						<div class="team-img">
 							<img src="{{ asset('assets/img/cow2.jpg') }}">
-							
+
 						</div>
 						<div class="team-content">
-							<h3 class="title">Steve Thomas</h3>
-							<span class="post">Web Developer</span>
+							<h3 class="title">Sapi Agroedufarm</h3>
 						</div>
 					</div>
 				</div>
