@@ -142,7 +142,7 @@
 							<h3 class="author_name"><a href="#">Ricky</a></h3>
 							<h5>CEO <a href="#">AGROEDUFARM</a></h5>
 							<p class="author_det">
-								Lorem ipsum dolor sit amet, consectetur adip, sed do eiusmod tempor incididunt  ut aut reiciendise voluptat maiores alias consequaturs aut perferendis doloribus omnis saperet docendi nec, eos ea alii molestiae aliquand.
+								AGROEDUFARM menjamin bahwa hewan kurban yang akan menjadi pilihan Ibadah Anda, telah sesuai dengan Syariat Islam
 							</p>
 						</div>
 						<div class="author-desc">
@@ -164,13 +164,12 @@
 
 
 
-    <div id="testimonials" class="parallax section db parallax-off"
-        style="background-image:url('images/parallax_04.jpg');">
+    <div id="testimonials" class="parallax section db parallax-off img-fluid"
+        style="background-image:url('{{ asset('assets/img/logo.jpg') }}');">
         <div class="container">
             <div class="section-title text-center">
-                <h3>Testimonials</h3>
-                <p>Lorem ipsum dolor sit aet, consectetur adipisicing lit sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. </p>
+                <h3>Testimoni</h3>
+                <p>Kami sudah memiliki banyak pembeli di seluruh Indonesia. Berikut ini beberapa testimoni dari pelanggan setia kami.</p>
             </div><!-- end title -->
 
             <div class="row">
@@ -178,13 +177,12 @@
                     <div class="testi-carousel owl-carousel owl-theme">
                         <div class="testimonial clearfix">
                             <div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid">
-                                <h4>James Fernando </h4>
+                                <img src="{{ asset('assets/images/testi_01.png') }}" alt="" class="img-fluid">
+                                <h4>Bapak H. Mahfud Ali </h4>
                             </div>
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly
-                                    skilled, and experienced & professional team.</p>
+                                <h3><i class="fa fa-quote-left"></i> Dombanya Segar!</h3>
+                                <p class="lead">Cocok untuk Kurban ataupun Aqiqah.</p>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -192,13 +190,12 @@
 
                         <div class="testimonial clearfix">
                             <div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid">
-                                <h4>Jacques Philips </h4>
+                                <img src="{{ asset('assets/images/testi_02.png') }}" alt="" class="img-fluid">
+                                <h4>Bapak Ibnu Marzuki </h4>
                             </div>
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and
-                                    praising pain was born and I will give you completed.</p>
+                                <h3><i class="fa fa-quote-left"></i> Domba Super!</h3>
+                                <p class="lead">Ukuran dombanya luar biasa besar, sukses AGROEDUFARM!</p>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -206,84 +203,18 @@
 
                         <div class="testimonial clearfix">
                             <div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid ">
-                                <h4>Venanda Mercy </h4>
+                                <img src="{{ asset('assets/images/testi_03.png') }}" alt="" class="img-fluid ">
+                                <h4> Ibu Hj. Masruroh </h4>
                             </div>
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids
-                                    pleasure itself, because it is very pursue pleasure. </p>
+                                <h3><i class="fa fa-quote-left"></i> Domba Premium!</h3>
+                                <p class="lead">Kualitas domba di agroedufarm memang the best. </p>
                             </div>
                             <!-- end testi-meta -->
                         </div>
                         <!-- end testimonial -->
-                        <div class="testimonial clearfix">
-                            <div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid">
-                                <h4>James Fernando </h4>
-                            </div>
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly
-                                    skilled, and experienced & professional team.</p>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid">
-                                <h4>Jacques Philips </h4>
-                            </div>
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and
-                                    praising pain was born and I will give you completed.</p>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid">
-                                <h4>Venanda Mercy </h4>
-                            </div>
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids
-                                    pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div><!-- end testimonial -->
                     </div><!-- end carousel -->
                 </div><!-- end col -->
-            </div><!-- end row -->
-        </div><!-- end container -->
-    </div><!-- end section -->
-
-    <div class="parallax section dbcolor">
-        <div class="container">
-            <div class="row logos">
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_01.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_02.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_03.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_04.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_05.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_06.png" alt="" class="img-repsonsive"></a>
-                </div>
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->

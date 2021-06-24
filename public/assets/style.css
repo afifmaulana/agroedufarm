@@ -753,7 +753,7 @@ a img.aligncenter {
 
 .big-tagline a.hover-btn-new::before,
 .big-tagline a.hover-btn-new::after {
-  background: #fff;
+  background: #ffffff;
   content: '';
   position: absolute;
   z-index: 1;

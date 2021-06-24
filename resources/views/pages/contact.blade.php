@@ -107,7 +107,7 @@
     <div id="contact" class="section wb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>Butuh Kambing atau Domba buat kurban? Segera Hubungi kami</h3>
+                <h3>Pengen Kurban? Segera Hubungi kami</h3>
                 <p class="lead">Kami mempunyai kambing atau domba dengan kualitas terbaik.</p>
             </div><!-- end title -->
 
@@ -144,31 +144,6 @@
 						<div id="custom-places" class="small-map"></div>
 					</div>
 				</div>
-            </div><!-- end row -->
-        </div><!-- end container -->
-    </div><!-- end section -->
-
-    <div class="parallax section dbcolor">
-        <div class="container">
-            <div class="row logos">
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_01.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_02.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_03.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_04.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_05.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_06.png" alt="" class="img-repsonsive"></a>
-                </div>
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->

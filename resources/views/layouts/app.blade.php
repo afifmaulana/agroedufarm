@@ -117,7 +117,7 @@
                                     <div class="big-tagline">
                                         <h2><strong>Agro EduFarm </strong></h2>
                                         <p class="lead">Lembaga pelatihan pertanian dan peternakan kambing yang berkualitas</p>
-                                        <a href="#" class="hover-btn-new"><span>Hubungi Kami</span></a>
+                                        <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
 
                                     </div>
                                 </div>
@@ -136,7 +136,7 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight"><strong>Domba</strong></h2>
                                         <p class="lead" data-animation="animated fadeInLeft">Domba sehat dan berkualitas</p>
-                                        <a href="#" class="hover-btn-new"><span>Hubungi Kami</span></a>
+                                        <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
                                     </div>
                                 </div>
                             </div><!-- end row -->
@@ -154,7 +154,7 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight"><strong>Sapi</strong></h2>
                                         <p class="lead" data-animation="animated fadeInLeft">Sapi dengan kualitas terbaik</p>
-                                        <a href="#" class="hover-btn-new"><span>Hubungi Kami</span></a>
+                                        <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
                                     </div>
                                 </div>
                             </div><!-- end row -->
@@ -219,7 +219,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    
+
 
     <div id="plan" class="section lb">
         <div class="container">
@@ -259,7 +259,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="#" class="hover-btn-new orange"><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -276,7 +276,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="#" class="hover-btn-new orange"><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -294,7 +294,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="#" class="hover-btn-new orange"><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -316,7 +316,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="#" class="hover-btn-new orange"><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -328,8 +328,8 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="testimonials" class="parallax section db parallax-off"
-        style="background-image:url('{{ asset('assets/images/parallax_04.jpg') }}');">
+    <div id="testimonials" class="parallax section db parallax-off img-fluid"
+        style="background-image:url('{{ asset('assets/img/logo.jpg') }}');">
         <div class="container">
             <div class="section-title text-center">
                 <h3>Testimoni</h3>
@@ -342,11 +342,11 @@
                         <div class="testimonial clearfix">
                             <div class="testi-meta">
                                 <img src="{{ asset('assets/images/testi_01.png') }}" alt="" class="img-fluid">
-                                <h4>Mahfud Ali </h4>
+                                <h4>Bapak H. Mahfud Ali </h4>
                             </div>
                             <div class="desc">
                                 <h3><i class="fa fa-quote-left"></i> Dombanya Segar!</h3>
-                                <p class="lead">Kualitas domba di agroedufarm memang the best.</p>
+                                <p class="lead">Cocok untuk Kurban ataupun Aqiqah.</p>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -355,12 +355,11 @@
                         <div class="testimonial clearfix">
                             <div class="testi-meta">
                                 <img src="{{ asset('assets/images/testi_02.png') }}" alt="" class="img-fluid">
-                                <h4>Jacques Philips </h4>
+                                <h4>Bapak Ibnu Marzuki </h4>
                             </div>
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and
-                                    praising pain was born and I will give you completed.</p>
+                                <h3><i class="fa fa-quote-left"></i> Domba Super!</h3>
+                                <p class="lead">Ukuran dombanya luar biasa besar, sukses AGROEDUFARM!</p>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -369,92 +368,21 @@
                         <div class="testimonial clearfix">
                             <div class="testi-meta">
                                 <img src="{{ asset('assets/images/testi_03.png') }}" alt="" class="img-fluid ">
-                                <h4>Venanda Mercy </h4>
+                                <h4> Ibu Hj. Masruroh </h4>
                             </div>
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids
-                                    pleasure itself, because it is very pursue pleasure. </p>
+                                <h3><i class="fa fa-quote-left"></i> Domba Premium!</h3>
+                                <p class="lead">Kualitas domba di agroedufarm memang the best. </p>
                             </div>
                             <!-- end testi-meta -->
                         </div>
                         <!-- end testimonial -->
-                        <div class="testimonial clearfix">
-                            <div class="testi-meta">
-                                <img src="{{ asset('assets/images/testi_01.png') }}" alt="" class="img-fluid">
-                                <h4>James Fernando </h4>
-                            </div>
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly
-                                    skilled, and experienced & professional team.</p>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="testi-meta">
-                                <img src="{{ asset('assets/images/testi_02.png') }}" alt="" class="img-fluid">
-                                <h4>Jacques Philips </h4>
-                            </div>
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and
-                                    praising pain was born and I will give you completed.</p>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="testi-meta">
-                                <img src="{{ asset('assets/images/testi_03.png') }}" alt="" class="img-fluid">
-                                <h4>Venanda Mercy </h4>
-                            </div>
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids
-                                    pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div><!-- end testimonial -->
                     </div><!-- end carousel -->
                 </div><!-- end col -->
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div class="parallax section dbcolor">
-        <div class="container">
-            <div class="row logos">
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="{{ asset('assets/images/logo_01.png') }}" alt=""
-                            class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="{{ asset('assets/images/logo_02.png') }}" alt=""
-                            class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="{{ asset('assets/images/logo_03.png') }}" alt=""
-                            class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="{{ asset('assets/images/logo_04.png') }}" alt=""
-                            class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="{{ asset('assets/images/logo_05.png') }}" alt=""
-                            class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="{{ asset('assets/images/logo_06.png') }}" alt=""
-                            class="img-repsonsive"></a>
-                </div>
-            </div><!-- end row -->
-        </div><!-- end container -->
-    </div><!-- end section -->
 
 
     <x-footer/>

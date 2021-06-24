@@ -43,7 +43,7 @@
                         <li><a href="mailto:#"><i class="fa fa-envelope"></i> customer.service@agroedufarm.com</a></li>
                         <li><a href="/"><i class="fa fa-globe"></i> www.agroedufarm.com</a></li>
                         <li><i class="fa fa-map-marker"></i> Bogor, Indonesia</li>
-                        <li><i class="fa fa-whatsapp"></i> 0811972915</li>
+                        <li><a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?"><i class="fa fa-whatsapp"></i> 0811972915</a></li>
                     </ul><!-- end links -->
                 </div><!-- end clearfix -->
             </div><!-- end col -->
