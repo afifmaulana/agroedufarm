@@ -10,7 +10,7 @@
                     <div class="footer-right">
                         <ul class="footer-links-soi">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                            <li><a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?"><i class="fa fa-whatsapp"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
