@@ -303,8 +303,6 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-
-
     <x-footer/>
 
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
