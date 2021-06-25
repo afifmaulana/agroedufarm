@@ -5,85 +5,6 @@
 
 <body class="host_version">
 
-    <!-- Modal -->
-    <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header tit-up">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title">Customer Login</h4>
-                </div>
-                <div class="modal-body customer-box">
-                    <!-- Nav tabs -->
-                    <ul class="nav nav-tabs">
-                        <li><a class="active" href="#Login" data-toggle="tab">Login</a></li>
-                        <li><a href="#Registration" data-toggle="tab">Registration</a></li>
-                    </ul>
-                    <!-- Tab panes -->
-                    <div class="tab-content">
-                        <div class="tab-pane active" id="Login">
-                            <form role="form" class="form-horizontal">
-                                <div class="form-group">
-                                    <div class="col-sm-12">
-                                        <input class="form-control" id="email1" placeholder="Name" type="text">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <div class="col-sm-12">
-                                        <input class="form-control" id="exampleInputPassword1" placeholder="Email"
-                                            type="email">
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-sm-10">
-                                        <button type="submit" class="btn btn-light btn-radius btn-brd grd1">
-                                            Submit
-                                        </button>
-                                        <a class="for-pwd" href="javascript:;">Forgot your password?</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                        <div class="tab-pane" id="Registration">
-                            <form role="form" class="form-horizontal">
-                                <div class="form-group">
-                                    <div class="col-sm-12">
-                                        <input class="form-control" placeholder="Name" type="text">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <div class="col-sm-12">
-                                        <input class="form-control" id="email" placeholder="Email" type="email">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <div class="col-sm-12">
-                                        <input class="form-control" id="mobile" placeholder="Mobile" type="email">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <div class="col-sm-12">
-                                        <input class="form-control" id="password" placeholder="Password"
-                                            type="password">
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-sm-10">
-                                        <button type="button" class="btn btn-light btn-radius btn-brd grd1">
-                                            Save &amp; Continue
-                                        </button>
-                                        <button type="button" class="btn btn-light btn-radius btn-brd grd1">
-                                            Cancel</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- LOADER -->
     {{-- <div id="preloader">
         <div class="loader-container">
@@ -118,7 +39,6 @@
                                         <h2><strong>Agro EduFarm </strong></h2>
                                         <p class="lead">Lembaga pelatihan pertanian dan peternakan kambing yang berkualitas</p>
                                         <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
-
                                     </div>
                                 </div>
                             </div><!-- end row -->
@@ -259,7 +179,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -276,7 +196,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -294,7 +214,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -311,12 +231,12 @@
                                         <div class="pricing-table-space"></div>
                                         <div class="pricing-table-features">
                                             <img src="{{ asset('assets/img/cow2.jpg') }}" class="img-fluid mb-2" style="border-radius: 10px" height="500" width="990" alt="">
-                                            <p><i class="fa fa-money"></i> <strong>Rp. 2.900.000-4.850.000</strong> </p>
+                                            <p><i class="fa fa-money"></i> <strong>Rp. 17.900.000-34.850.000</strong> </p>
                                             <p><i class="fa fa-database"></i> <strong>280-800 kg </strong></p>
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-success"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
