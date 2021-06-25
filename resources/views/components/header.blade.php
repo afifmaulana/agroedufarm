@@ -18,7 +18,7 @@
                     <li class="nav-item {{ request()->is('kontak*') ? 'active' : '' }}"><a class="nav-link" href="/kontak">Kontak</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a class="btn btn-outline-warning mb-2" href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?"><span>Hubungi Kami</span></a></li>
+                    <li><a class="btn btn-outline-warning mb-2" href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?"><span>Hubungi Kami</span></a></li>
                 </ul>
             </div>
         </div>
