@@ -8,9 +8,9 @@
 
     <!-- Site Metas -->
     <title>Agro EduFarm</title>
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="keywords" content="Agroedufarm,hewan kurban,kambing kurban,sapi,kurban,domba">
+    <meta name="description" content="Jual Hewan Kurban">
+    <meta name="author" content="www.agroedufarm.com">
 
     <!-- Site Icons -->
     <link rel="shortcut icon" href="{{ asset('assets/img/logo.png') }}" type="image/x-icon" />
