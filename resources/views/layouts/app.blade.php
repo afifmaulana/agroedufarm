@@ -38,7 +38,7 @@
                                     <div class="big-tagline">
                                         <h2><strong>Agro EduFarm </strong></h2>
                                         <p class="lead">Lembaga pelatihan pertanian dan peternakan kambing yang berkualitas</p>
-                                        <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
+                                        <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
                                     </div>
                                 </div>
                             </div><!-- end row -->
@@ -56,7 +56,7 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight"><strong>Domba</strong></h2>
                                         <p class="lead" data-animation="animated fadeInLeft">Domba sehat dan berkualitas</p>
-                                        <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
+                                        <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
                                     </div>
                                 </div>
                             </div><!-- end row -->
@@ -74,7 +74,7 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight"><strong>Sapi</strong></h2>
                                         <p class="lead" data-animation="animated fadeInLeft">Sapi dengan kualitas terbaik</p>
-                                        <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
+                                        <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="hover-btn-new"><span>Hubungi Kami</span></a>
                                     </div>
                                 </div>
                             </div><!-- end row -->
@@ -179,7 +179,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -196,7 +196,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +214,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -236,7 +236,7 @@
                                             </p>
                                         </div>
                                         <div class="pricing-table-sign-up">
-                                            <a href="https://wa.me/6285156805245?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
+                                            <a href="https://wa.me/62811972915?text=Halo,%20Apakah%20hewan%20kurbannya%20masih%20tersedia%20?" class="btn btn-warning"><i class="fa fa-whatsapp" style="color: green"></i><span>Pesan</span></a>
                                         </div>
                                     </div>
                                 </div>
